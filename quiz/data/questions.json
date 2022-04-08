@@ -1,0 +1,57 @@
+{
+    "chapter": "Al-Ushuluts Tsalatsah",
+    "title": "Ma'rifatullah",
+    "no": "1",
+    "questions": [
+        {
+            "query": "Mana yang tidak termasuk pada hal yang wajib untuk diketahui berdasarkan penjelasan Syaikh Muhammad bin Abdul Wahhab?",
+            "choices": [
+                "Penciptaan manusia tidak sia-sia",
+                "Allah tidak ridho disekutukan",
+                "Tidak bermuwalah dengan orang yang memusuhi Allah",
+                "Wajibnya ilmu sebelum amal"
+            ],
+            "answer": 3
+        },
+        {
+            "query": "Salah satu dari empat hal yang wajib untuk dipelajari oleh seorang muslim adalah bersabar. Mana dari jawaban berikut ini yang bukan bagian dari bersabar yang dijelaskan penulis?",
+            "choices": [
+                "Bertakwa",
+                "Berilmu",
+                "Berdakwah",
+                "Beramal"
+            ],
+            "answer": 0
+        },
+        {
+            "query": "Mana makna kata wajib yang benar?",
+            "choices": [
+                "Apabila dikerjakan mendapatkan pahala, jika ditinggalkan tidak berdosa",
+                "Apabila dikerjakan mendapatkan pahala, jika ditinggalkan berdosa",
+                "Apabila ditinggalkan mendapatkan pahala, jika dikerjakan tidak berdosa",
+                "Apabila ditinggalkan mendapatkan pahala, jika dikerjakan berdosa"
+            ],
+            "answer": 1
+        },
+        {
+            "query": "Apa yang dimaksud dengan manusia tidak diciptakan dengan sia-sia yang disebut dalam halaqah?",
+            "choices": [
+                "Manusia diturunkan ke bumi sebagai khalifah",
+                "Manusia diberikan ambisi yang akan dipenuhinya",
+                "Tidak ada bagian dari penciptaan manusia yang tidak memiliki hikmah",
+                "Manusia dibiarkan tinggal di bumi dengan tujuan agar beribadah kepada Allah"
+            ],
+            "answer": 3
+        },
+        {
+            "query": "Apa makna huruf ba di dalam kalimat basmalah?",
+            "choices": [
+                "Isti'adzah",
+                "Tasbih",
+                "Isti'anah",
+                "Dzikir"
+            ],
+            "answer": 2
+        }
+    ]
+}
