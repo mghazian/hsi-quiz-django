@@ -6,14 +6,6 @@ from django.shortcuts import render
 
 # Create your views here.
 def serve_quiz_view(request):
-    
-    def x(no, answer_index, content):
-        return {
-            "no": no,
-            "content": content,
-            "is_correct": answer_index == no
-        }
-
     questions = []
 
     with open(os.path.dirname(__file__) + '/data/questions.json', 'r') as file:
